@@ -12,15 +12,13 @@ NOTE: i don't speak any japanese lol, all of the translations were inferred from
 
 □□ [Introduction] □□
 
-"UTAGOE" is a program that attempts to render vocals alone by taking the difference between the master and karaoke tracks of a song.
-In principle, it seems that complete vocals can be taken out easily by subtracting karaoke from the original, but in reality it is not that simple. Still, other options work pretty well, so give them a try.
-A tool to create a WAV file from a CD is required, so please prepare it separately.
+"UTAGOE" is a program that attempts to render vocals only audio files by inversing karaoke track of a song over the master track.
+Although it seems that complete vocals can be taken out easily by subtracting the karaoke from the original, in reality, it's not that simple. Other options work pretty well, so give them a try.
 
 
 □□ [Supported Operating Systems] □□
 
 Tested operating systems: Windows ME / XP / Vista
-
 
 
 □□ [Install / Uninstall] □□
@@ -48,7 +46,6 @@ Please see the help file (UtagoeHelp.pdf).
 
 ・ "UTAGOE" is free software. Anyone is free to distribute it. Please contact us for commercial use.
 ・ The author does not take any responsibility for any damage caused by using this program.
-
 
 
 □□ [Changelog] □□
